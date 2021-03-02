@@ -6,7 +6,11 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:ghostwhite;
+    background: url("img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     color: black;
 }
 
